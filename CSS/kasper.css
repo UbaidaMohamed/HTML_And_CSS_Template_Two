@@ -385,7 +385,7 @@ header nav .form i {
   text-align: center;
 }
 
-@media (max-width: 767) {
+@media (max-width: 767px) {
   .design .image {
     display: none;
   }
